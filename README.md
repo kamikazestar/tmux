@@ -9,7 +9,7 @@ Here's how configuration looks like:
 
 <kbd>Ctrl</kbd> + <kbd>a</kbd> - Preffix key combination.\
 <kbd>Ctrl</kbd>+ <kbd>a</kbd> <kbd>c</kbd> - Create new pane.\
-<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>n</kbd> - Switch to next panei.\
+<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>n</kbd> - Switch to next pane.\
 <kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>p</kbd> - Switch to previous pane.\
 <kbd>Ctrl</kbd> + <kbd>w</kbd> - Kill current pane.\
 <kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>r</kbd> - Reload tmux configuration.\
