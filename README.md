@@ -5,7 +5,7 @@ Tmux configuration.
 Here's how configuration looks like:
 ![Tmux console screenshot](/images/tmux-config-screenshot.png)
 
-## Key bunding
+## Key binding
 
 ## Inspiration
 
