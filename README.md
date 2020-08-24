@@ -7,22 +7,22 @@ Here's how configuration looks like:
 
 ## Key binding
 
-<kbd>Ctrl</kbd> + <kbd>a</kbd> - Preffix key combination.
-<kbd>Ctrl</kbd>+ <kbd>a</kbd> <kbd>c</kbd> - Create new pane.
-<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>n</kbd> - Switch to next pane.
-<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>p</kbd> - Switch to previous pane.
-<kbd>Ctrl</kbd> + <kbd>w</kbd> - Kill current pane.
-<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>r</kbd> - Reload tmux configuration.
-<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>-</kbd>  - Split pane horizontally.
-<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>|</kbd> - Split pane vertically.
-<kbd>Ctrl</kbd> + <kbd>left</kbd> - Resize pane to the left by 10.
-<kbd>Ctrl</kbd> + <kbd>right</kbd> - Resize pane to the right by 10.
-<kbd>Ctrl</kbd> + <kbd>up</kbd> - Resize pane to the up by 10.
-<kbd>Ctrl</kbd> + <kbd>down</kbd> - Resize pane to the down by 10.
-<kbd>Shift</kbd> + <kbd>left</kbd> - Resize pane to the left by 2.
-<kbd>Shift</kbd> + <kbd>right</kbd> - Resize pane to the right by 2.
-<kbd>Shift</kbd> + <kbd>up</kbd> - Resize pane to the up by 2.
-<kbd>Shift</kbd> + <kbd>down</kbd> - Resize pane to the down by 2.
+<kbd>Ctrl</kbd> + <kbd>a</kbd> - Preffix key combination.\
+<kbd>Ctrl</kbd>+ <kbd>a</kbd> <kbd>c</kbd> - Create new pane.\
+<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>n</kbd> - Switch to next panei.\
+<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>p</kbd> - Switch to previous pane.\
+<kbd>Ctrl</kbd> + <kbd>w</kbd> - Kill current pane.\
+<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>r</kbd> - Reload tmux configuration.\
+<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>-</kbd>  - Split pane horizontally.\
+<kbd>Ctrl</kbd> + <kbd>a</kbd> <kbd>|</kbd> - Split pane vertically.\
+<kbd>Ctrl</kbd> + <kbd>left</kbd> - Resize pane to the left by 10.\
+<kbd>Ctrl</kbd> + <kbd>right</kbd> - Resize pane to the right by 10.\
+<kbd>Ctrl</kbd> + <kbd>up</kbd> - Resize pane to the up by 10.\
+<kbd>Ctrl</kbd> + <kbd>down</kbd> - Resize pane to the down by 10.\
+<kbd>Shift</kbd> + <kbd>left</kbd> - Resize pane to the left by 2.\
+<kbd>Shift</kbd> + <kbd>right</kbd> - Resize pane to the right by 2.\
+<kbd>Shift</kbd> + <kbd>up</kbd> - Resize pane to the up by 2.\
+<kbd>Shift</kbd> + <kbd>down</kbd> - Resize pane to the down by 2.\
 
 ## Inspiration
 
