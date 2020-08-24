@@ -2,7 +2,7 @@
 
 Tmux configuration.
 
-Here's how configuration looks like:
+Here's how tmux looks like:
 ![Tmux console screenshot](/images/tmux-config-screenshot.png)
 
 ## Key binding
