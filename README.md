@@ -22,7 +22,7 @@ Here's how configuration looks like:
 <kbd>Shift</kbd> + <kbd>left</kbd> - Resize pane to the left by 2.\
 <kbd>Shift</kbd> + <kbd>right</kbd> - Resize pane to the right by 2.\
 <kbd>Shift</kbd> + <kbd>up</kbd> - Resize pane to the up by 2.\
-<kbd>Shift</kbd> + <kbd>down</kbd> - Resize pane to the down by 2.\
+<kbd>Shift</kbd> + <kbd>down</kbd> - Resize pane to the down by 2.
 
 ## Inspiration
 
