@@ -27,6 +27,11 @@ Here's how tmux looks like:
 <kbd>Ctrl</kbd> + <kbd>l</kbd> - Move to right pane.\
 <kbd>Ctrl</kbd> + <kbd>j</kbd> - Move to up pane.\
 <kbd>Ctrl</kbd> + <kbd>k</kbd> - Move to down pane.\
+<kbd>Ctrl</kbd> + <kbd>space</kbd> <kbd>,</kbd> - Rename window name. \
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Left</kbd> - Move window to the left.
+\
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Right</kbd> - Move window to the
+right. \
 
 ## Inspiration
 
