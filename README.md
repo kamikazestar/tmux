@@ -96,6 +96,26 @@ This installs the remaining plugins via TPM.
 
 ---
 
+## ⌨️ Keybindings
+
+The prefix is `Ctrl-a`. Pane navigation follows Vim keys: `Prefix h`, `j`,
+`k`, and `l` focus the left, down, up, and right pane.
+
+| Action | Binding |
+| --- | --- |
+| New window | `Prefix c` |
+| Split into stacked panes | `Prefix -` or `Prefix a` |
+| Split into side-by-side panes | `Prefix \|` or `Prefix v` |
+| Last active pane | `Prefix ;` |
+| Copy mode | `Prefix [` |
+| Zoom/unzoom pane | `Prefix z` |
+
+`Prefix a` and `Prefix v` are base-layer aliases for the Corne split
+keyboard. The original symbol-layer split keys remain available, so the same
+configuration is comfortable on a conventional laptop keyboard.
+
+---
+
 ## 🔧 Dependencies
 
 - [Tmux](https://github.com/tmux/tmux) — required
